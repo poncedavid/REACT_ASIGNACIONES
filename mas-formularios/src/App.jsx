@@ -24,6 +24,7 @@ function App() {
   const [passwordError, setPasswordError] = useState("");
   const [confirmPasswordError, setConfirmPasswordError] = useState("");
 
+
   const handleFirstNameChange = ({ target }) => {
     setFirstName(target.value);
     firstName.length < 2
@@ -63,6 +64,7 @@ function App() {
     <div className="container py-3">
       <div className="row">
         <div className="col-md-4 offset-md-4">
+        
           <form>
             <Input
               label="First Name"
