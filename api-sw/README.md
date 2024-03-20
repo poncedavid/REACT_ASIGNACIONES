@@ -1,8 +1,40 @@
-# React + Vite
+# Coding Dojo - Bootcamp MERN
+## BID-luke-apiwalker
+### Tarea core
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![project screen](https://res.cloudinary.com/xjergx/image/upload/v1674442253/bid-luke-apiwalker_w0pnnt.png)](https://res.cloudinary.com/xjergx/image/upload/v1674442253/bid-luke-apiwalker_w0pnnt.png)
+#### Instalación
+- Clonar o descargar el repositorio
+- Instalar las dependencias:
+    1. Utilizando npm
+    ```bash
+    npm install
+    ```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    2. Utilizando yarn
+    ```bash
+    yarn install
+    ```
 
-Currently, two official plugins are available:
+    3. Utilizando pnpm
+    ```bash
+    pnpm install
+    ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Ejecutar el proyecto:
+    1. Utilizando npm
+    ```bash
+    npm run dev
+    ```
+
+    2. Utilizando yarn
+    ```bash
+    yarn dev
+    ```
+
+    3. Utilizando pnpm
+    ```bash
+    pnpm dev
+    ```
+
+- Servidor local: http://localhost:5173
