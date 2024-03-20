@@ -91,14 +91,6 @@ const ListProducts = () => {
 							</Tr>
 						))}
 					</Tbody>
-					<Tfoot>
-						<Tr>
-							<Th>Title</Th>
-							<Th isNumeric>Price</Th>
-							<Th>Description</Th>
-							<Th>Actions</Th>
-						</Tr>
-					</Tfoot>
 				</Table>
 			</TableContainer>
 		</Box>
